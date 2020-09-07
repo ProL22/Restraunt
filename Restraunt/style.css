@@ -1,0 +1,48 @@
+.Snacks{
+    color: blue;
+    border: crimson;
+    border:dotted;
+}
+.Combos{
+    color: crimson;
+    border:dotted;
+    border-color: blueviolet;
+}
+.Pizza{
+    color: blueviolet;
+    border:dotted;
+    border-color: red;
+} 
+.IndianFood{
+    color: chartreuse;
+    border : dotted;
+    
+    border-block-end-color: rgb(228, 145, 145);
+    align-content: flex-end;
+}
+img{
+    border:solid;
+    border-color : darkorange;
+}
+
+.Cutomer_Info{
+    border:solid;
+    border-color: darkred;
+    font-size: larger;
+}
+.Orderingfood{
+   border:solid;
+   border-color:blue ;
+   font-size: larger;
+}
+
+.Food{
+    direction: reverse;
+    font-style: oblique;
+    text-shadow: 3px  3px lightcoral ;
+    border:dotted;
+    border-color:orange;
+}
+marquee{
+     width: 10000px;
+}
